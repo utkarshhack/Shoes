@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+}
+body,html{
+    height: 100%;
+    width: 100%;
+}
+#one{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+#two{
+    height: 100%;
+    width: 40%;
+    padding: 30px 30px;
+}
+#two i{
+    font-size: 25px;
+}
+#three{
+    padding: 30px 80px;
+    height: 100%;
+    width: 60%;
+    background-image: url(https://plus.unsplash.com/premium_photo-1665664652418-91f260a84842?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+}
+#three a{
+    color: azure;
+    text-decoration: none;
+}
+#four{
+    position: absolute;
+    height: 90%;
+    width: 45%;
+    background-color: aliceblue;
+    top: 10%;
+    left: 10%;
+    display: flex;
+}
+#five{
+height: 20%;
+width: 35%;
+}
+#six{
+    margin: 20px 0px 60px 10px;
+    height: 55%;
+    width: 60%;
+    padding: 20px 0px 60px 10px;
+    
+}
+#six h1{
+    font-weight: 400;
+}
+#six h3{
+    font-size: 15px;
+    font-weight: 300;
+}
+#six p{
+    font-size: 15px;
+    color: gray;
+}
+#seven{
+    display: flex;
+    gap: 20px;
+}
+#seven button{
+    padding: 10px 10px;
+}
+#seven h1{
+    font-size: 25px;
+}
+#six h4{
+    font-size: 25px;
+}
+#six h2{
+    font-weight: 400;
+    font-size: 15px;
+}
+#eight button{
+    padding: 10px 10px;
+    margin: 10px;
+}
+#eight #ten{
+    background-color: black;
+    color: aliceblue;
+}
+#seven #eleven{
+    background-color: black;
+    color: aliceblue;
+}
+#twelve{
+    height: 42%;
+    width: 100%;
+    position: absolute;
+    top: 58%;
+    text-align: center;
+}
+#therteen{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#therteen img{
+    height: 150px;
+    width: 150px;
+}
+#twelve h1{
+    font-weight: 300;
+}
+#twelve p{
+    font-size: 15px;
+    color: grey;
+}
+#therteen h4{
+    font-size: 12px;
+    font-weight: 200;
+}
+#nav{
+    position: absolute;
+    top: 12%;
+    left: 3%;
+}
+#nav img{
+    height: 400px;
+    width: 320px; 
+}
